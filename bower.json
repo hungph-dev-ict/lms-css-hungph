@@ -1,0 +1,17 @@
+{
+  "name": "lms-css-hungphr",
+  "version": "1.0.1",
+  "authors": [
+    "hungph"
+  ],
+  "description": "LMS CSS",
+  "main": "/",
+  "keywords": [
+    "fonticons"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/hungph-dev-ict/lms-css-hungph.git",
+  "ignore": [
+    "README.md"
+  ]
+}
